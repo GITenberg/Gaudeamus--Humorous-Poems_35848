@@ -1,0 +1,44 @@
+_repo: Gaudeamus--Humorous-Poems_35848
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leland, Charles Godfrey
+    aliases:
+    - Leland, Charles G.
+    - Breitman, Hans
+    - Breitmann, Hans
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scheffel, Joseph Victor von
+    aliases:
+    - Von Scheffel, Joseph Viktor
+    - Scheffel, Joseph Victor von
+    - Scheffel, J. von (Joseph)
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '35144'
+    url: http://www.gutenberg.org/2009/agents/35144
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Viktor_von_Scheffel
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- Translations into English'
+- !lcsh 'German wit and humor'
+title: Gaudeamus! Humorous Poems
+url: http://www.gutenberg.org/ebooks/35848
